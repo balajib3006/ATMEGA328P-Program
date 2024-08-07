@@ -1,8 +1,8 @@
 /*****************************************************************
 
-	Title	:	Blink Builtin LED
-	MCU	:	ATMEGA328P
-	Author	: 	scamanderoffl
+	Title  : Blink Builtin LED
+	MCU    : ATMEGA328P
+	Author : Balaji
 	
 *****************************************************************/
 #include <avr/io.h>
